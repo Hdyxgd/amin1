@@ -1,7 +1,5 @@
-//profile-title: base64:946d9e61-37cc-4f1e-b0d0-104be55febdc=
-//profile-update-interval: 2
-//subscription-userinfo: upload=5368709129; download=117037858815; total=955630223368; expire=1762677734
-#profile-web-page-url: @FREE2CONFIG
-vless://946d9e61-37cc-4f1e-b0d0-104be55febdc@81.28.12.12:80?security=none&type=ws&headerType=&path=&host=bolak.com#%F0%9F%9A%80%20Marz%20%281130795947_c0c0%29%20%5B
-
-
+//profile-title: base64:QWxlcGgg4p2k8J+kjfCfkpogRlJFRTJDT05GSUc=
+//profile-update-interval: 1
+//subscription-userinfo: upload=5368709120; download=117037858816; total=955630223360; expire=1762677732
+#profile-web-page-url: @v2ray_6
+vless://e565fcbe-f517-462f-9642-86b90c3a92ce@85.208.139.222:1633/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=stackoverflow.com&fp=chrome&security=reality&pbk=ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q&sid=9bc0a55a5379c0ed#%F0%9F%87%A9%F0%9F%87%AA
